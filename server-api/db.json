@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": "c3c0279f-13db-4dca-902c-309c913a1604",
+      "name": "Fatik Khan55",
+      "email": "Fatik88@gmail.com",
+      "Address": "Gulshan, Karachi,Pakistan"
+    },
+    {
+      "id": "90404f3b-f480-4f12-b12a-2946db678e2c",
+      "name": "Sidra Amin88",
+      "email": "sidraaminb395@gmail.com",
+      "Address": "Pakistan,Karachi"
+    }
+  ]
+}
